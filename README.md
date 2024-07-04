@@ -1,5 +1,3 @@
-# Soccer-test1
-Encuesta futbol
 <!DOCTYPE html>
 <html lang="es">
 <head>
